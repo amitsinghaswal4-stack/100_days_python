@@ -1,0 +1,9 @@
+JSON is just a universal data format — a way to store structured data as plain text that any programming language can read.
+
+                    -----The problem it solves--------
+Python keeps your data in memory (RAM) while the program runs. When the program closes, RAM is wiped — everything is lost. JSON lets you write that data to a file on your hard drive so it survives.
+json.load() — read from file into Python
+json.load() — read from file into Python
+
+                    ------os — Operating System---------
+os is Python's way of talking to your computer's operating system — whether that's Windows, Mac, or Linux. It lets your code interact with files, folders, and the environment around your program.
